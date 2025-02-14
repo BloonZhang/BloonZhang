@@ -1,4 +1,13 @@
-## Hi there 👋
+## 🐱 Hello and welcome! 🐱
+
+Hello! My name is Jeffrey Zhang, and I am a recent graduate of Florida Interactive Entertainment Academy, UCF's game development master's program.
+
+Here you will be able to see some of my personal projects, such as game jams and major assignments.
+
+Please feel free to visit any of these links if you would like to learn more!\
+[Portfolio](https://zhangljeffrey.wixstudio.com/portfolio)\
+[LinkedIn](https://www.linkedin.com/in/bloonzhang/)\
+[itch.io](https://bloonz.itch.io/)
 
 <!--
 **BloonZhang/BloonZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
